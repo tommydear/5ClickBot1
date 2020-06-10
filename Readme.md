@@ -11,7 +11,7 @@
 
 > apt update --pkg upgrade  
 apt install python git  
-git clone https://github.com/XTuyul/5ClickBot1    
+git clone https://github.com/tommydear/5ClickBot1    
 cd 5ClickBot1  
 pkg install python  
 pkg install nano  
